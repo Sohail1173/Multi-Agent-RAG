@@ -1,0 +1,13 @@
+langgraph 
+langchain  
+langchain-community 
+streamlit 
+langchain-groq 
+pypdf  
+InstructorEmbedding 
+google-generativeai 
+langchain-google-genai 
+from_root
+chromadb
+langchain-chroma
+# -e .
